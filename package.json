@@ -1,6 +1,6 @@
 {
-  "name": "sway",
-  "version": "2.0.6",
+  "name": "ern-sway",
+  "version": "2.0.8",
   "description": "A library that simplifies Swagger integrations.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -19,13 +19,13 @@
     "url": "https://github.com/whitlockjc"
   },
   "bugs": {
-    "url": "https://github.com/apigee-127/sway/issues"
+    "url": "https://github.com/r0h0gg6/ern-sway/issues"
   },
-  "homepage": "https://github.com/apigee-127/sway",
+  "homepage": "https://github.com/r0h0gg6/ern-sway",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/apigee-127/sway.git"
+    "url": "git://github.com/r0h0gg6/ern-sway.git"
   },
   "files": [
     "dist",
@@ -76,6 +76,6 @@
     "path-to-regexp": "^1.7.0",
     "swagger-methods": "^1.0.0",
     "swagger-schema-official": "2.0.0-bab6bed",
-    "z-schema": "^3.22.0"
+    "z-schema": "^5.0.6"
   }
 }

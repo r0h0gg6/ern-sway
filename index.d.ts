@@ -1,7 +1,7 @@
 /**
  * A library for simpler [Swagger](http://swagger.io/) integrations.
  */
-declare module 'sway' {
+declare module 'ern-sway' {
     /**
      * Creates a SwaggerApi object from its Swagger definition(s).
      * @param options - The options for loading the definition(s)
